@@ -31,3 +31,4 @@ gzip odstavce.txt
 
 # Zobrazení zprávy o úspěšném dokončení skriptu
 echo "Skript byl úspěšně dokončen."
+
